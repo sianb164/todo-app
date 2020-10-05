@@ -49,7 +49,7 @@ function App() {
   return (
     <div className="App">
       <header>
-        <h1>Siân's Todo List</h1>
+        <h1>Create your to-do list</h1>
       </header>
       <Form
         todos={todos}
